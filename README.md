@@ -1,1 +1,1 @@
-https://github.com/MahsaScript/COMSOL_Minor_Loss_Pipe_Elbow/blob/main/1-pressure.PNG#:~:text=.gitattributes-,1%2Dpressure.PNG,-1%2Dvelocity.PNG
+<img width="568" height="478" alt="1-pressure" src="https://github.com/user-attachments/assets/7d00ef17-67e8-4e26-b76f-14b8588b674d" />
